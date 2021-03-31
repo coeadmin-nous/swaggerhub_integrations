@@ -7,7 +7,7 @@
   },
   "servers" : [ {
     "url" : "https://virtserver.swaggerhub.com/NOUS_EI/poc-petstore/1.0.0",
-    "description" : "SwaggerHub API Auto Mocking"
+    "description" : "SwaggerHub API Auto Mocking and Service Integrations"
   } ],
   "tags" : [ {
     "name" : "pet",
