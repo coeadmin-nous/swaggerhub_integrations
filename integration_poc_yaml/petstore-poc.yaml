@@ -2,7 +2,7 @@
 openapi: 3.0.0
 info:
   title: poc-petstore
-  description: 'Demo  poc for Swagger lab Integrations '
+  description: 'Demo  poc for Swagger lab Integrations- committed in Gitlab'
   version: 1.0.0
 servers:
 - url: https://virtserver.swaggerhub.com/NOUS_EI/poc-petstore/1.0.0
