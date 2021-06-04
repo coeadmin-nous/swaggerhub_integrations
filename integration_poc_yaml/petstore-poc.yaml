@@ -118,3 +118,10 @@ components:
           scopes:
             write:pets: modify pets in your account
             read:pets: read your pets
+   schemas:
+     Schema:
+       type: object
+       properties:
+         id:
+           type: integer
+           format: int64
